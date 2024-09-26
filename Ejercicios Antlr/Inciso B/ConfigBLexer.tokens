@@ -1,0 +1,12 @@
+T__0=1
+T__1=2
+SET=3
+ID=4
+INT=5
+BOOLEAN=6
+STRING=7
+FILEPATH=8
+WS=9
+'='=1
+';'=2
+'SET'=3
